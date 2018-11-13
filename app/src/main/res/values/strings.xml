@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">lecture3</string>
+    <string name="hello">hello</string>
+    <string-array name="pokemon">
+        <item>lecture1</item>
+        <item>lecture2</item>
+        <item>lecture3</item>
+        <item>lecture4</item>
+        <item>lecture5</item>
+        <item>lecture6</item>
+        <item>lecture7</item>
+
+
+    </string-array>
+</resources>
